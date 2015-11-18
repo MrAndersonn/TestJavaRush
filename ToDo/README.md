@@ -1,1 +1,1 @@
-Main class :d:\TestJavaRush\ToDo\spring-data-rest-angular-sample\src\main\java\com\programmingfree\springservice\Application.java
+Main class :  ToDo\spring-data-rest-angular-sample\src\main\java\com\programmingfree\springservice\Application.java
